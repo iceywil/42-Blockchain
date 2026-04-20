@@ -23,7 +23,7 @@
     "framer-motion": "^12.4.7",
     "lucide-react": "^0.468.0",
     "motion": "^12.4.3",
-    "next": "^15.1.7",
+    "next": "15.1.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "svgson": "^5.3.1",
